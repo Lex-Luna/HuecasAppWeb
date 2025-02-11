@@ -13,6 +13,22 @@ body {
     flex-wrap: wrap;
     justify-content: center;
 }
+.img_capturas{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    /* margin: 30px; */
+    /* width: 5rem; */
+    flex-direction: column;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.color_rojo{
+    color: red;
+    float: left;
+    font-weight: bold;
+    margin-right: 7px;
+}
 #titulo{
     text-align: center;
     width: auto;
